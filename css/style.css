@@ -21,8 +21,12 @@ img{
     margin: 0 auto;
 }
 
-ul{
-    margin: 0 -4%;
+#facts{
+    margin: 0
+}
+
+#act-facts{
+    width: 110%;
 }
 
 h3{
@@ -36,7 +40,7 @@ h3{
 }
 
 blockquote{
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 footer{
